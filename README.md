@@ -1,6 +1,6 @@
 UTAH ZOOM TO SECTION TOOL.
 
-This is an ArcGIS tool to focus the currently open map on a section within a township and range the user specifies. 
+This is an ArcGIS toolbox to focus the currently open map on a section within a township and range the user specifies. 
 
 Instructions.
 
